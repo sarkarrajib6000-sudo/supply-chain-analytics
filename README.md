@@ -118,3 +118,8 @@ Full query-by-query results are in `docs/key_findings.md`.
 
 Constante, F., Silva, F., & Pereira, A. (2019). *DataCo Smart Supply Chain
 for Big Data Analysis.* Mendeley Data, V5. DOI: 10.17632/8gx2fvg2k6.5
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
